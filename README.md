@@ -13,6 +13,8 @@
 
 <sup><kbd>**_[Click here](https://github.com/SebastianLezama)_**</kbd> _to view my other projects.</sup>_ <br>
 
+## Skills ⚙️
+
 **Programming Languages**
 
 | <img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> | <img title="CSS" alt="CSS" width="50px" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"> |

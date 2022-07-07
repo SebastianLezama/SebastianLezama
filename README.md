@@ -1,4 +1,6 @@
-## Hello there! :argentina:
+# :argentina:
+
+## Hello there!
 
 **Glad to see you here!** <br> The green dots on my [**GitHub profile**](https://github.com/SebastianLezama) represent my journey :running_man: - From studying **python** and learning testing fundamentals, to practicing **Leetcode** and building my first **web app** with **JavaScript, HTML** and **CSS**. Currently I'm diving into the front-end side of things with **ReactJS** and also learning to test in **JAVA**.
 

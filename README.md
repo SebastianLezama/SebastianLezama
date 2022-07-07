@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hi there 👋
 
 **Glad to see you here!** <br> The green dots on my [**GitHub** profile](https://github.com/SebastianLezama?tab=repositories) represent my journey :running_man: - From **being curious** You can **find me on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**. Currently I'm **looking for contributions** for following projects:
 
@@ -12,3 +12,25 @@
 | [**Pylculator**](https://github.com/SebastianLezama/Calc)                  | [![GitHub issues](https://img.shields.io/github/issues/SebastianLezama/Calc?color=green&logo=github&style=flat)](https://github.com/SebastianLezama/Calc/issues)                     | [![GitHub PRs](https://img.shields.io/github/issues-pr/SebastianLezama/Calc?style=flat&logo=github)](https://github.com/SebastianLezama/Calc/pulls)                     | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/SebastianLezama/Calc?style=flat&color=critical&logo=github)](https://github.com/SebastianLezama/Calc/pulls?q=is%3Apr+is%3Aclosed)                     |
 
 <sup><kbd>**_[Click here](https://github.com/SebastianLezama)_**</kbd> _to view my other projects.</sup>_ <br>
+
+**Programming Languages**
+
+| <img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> | <img title="CSS" alt="CSS" width="50px" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"> |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+
+**Libraries and Frameworks**
+
+| <img title="Node" alt="Node" width="40px" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg"> | <img title="CSS" alt="CSS" width="60px" src="https://vav.com.mk/wp-content/uploads/2020/12/reactjs1.png"> | <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"> | <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"> |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+
+**Tools**
+
+| <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"> | <img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png"> | <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> | <img title="git" alt="git" width="40px" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"> | <img title="Jupyter Notebook" background-color="white" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"> |
+| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<br>
+
+## Let's Connect :handshake:
+
+| <a href="https://www.linkedin.com/in/sebastian-lezama-89a7851b2/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

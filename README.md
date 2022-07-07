@@ -23,8 +23,8 @@
 
 **Libraries and Frameworks**
 
-| <img title="Node" alt="Node" width="40px" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg"> | <img title="CSS" alt="CSS" width="60px" src="https://vav.com.mk/wp-content/uploads/2020/12/reactjs1.png"> | <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"> |
-| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| <img title="Node" alt="Node" width="38px" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg"> | <img title="CSS" alt="CSS" width="60px" src="https://vav.com.mk/wp-content/uploads/2020/12/reactjs1.png"> | <img title="Django" alt="Django" width="50px" src="https://codism.io/wp-content/uploads/2019/11/django-development-company.png"> |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 
 **Tools**
 

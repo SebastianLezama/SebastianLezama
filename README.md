@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hello there! :argentina:
 
-**Glad to see you here!** <br> The green dots on my [**GitHub profile**](https://github.com/SebastianLezama) represent my journey :running_man: - From studying **python** and learning testing fundamentals, to practicing **Leetcode** and building my first **web app**. You can **find me on [LinkedIn](https://www.linkedin.com/in/sebastian-lezama-89a7851b2/)**. Currently I'm diving into the front-end side of things with **ReactJS** and also learning to test in **JAVA**
+**Glad to see you here!** <br> The green dots on my [**GitHub profile**](https://github.com/SebastianLezama) represent my journey :running_man: - From studying **python** and learning testing fundamentals, to practicing **Leetcode** and building my first **web app** with **JavaScript, HTML** and **CSS**. Currently I'm diving into the front-end side of things with **ReactJS** and also learning to test in **JAVA**.
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SebastianLezama) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=SebastianLezama.visitor-badge)](https://github.com/SebastianLezama) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SebastianLezama)
 
